@@ -1,0 +1,63 @@
+Timestamp,Route Location,Route Scale,Route Grade,Route Color,Wall Type,Completed?,Percentage Complete,Notes
+11/17/2015 10:37:35,Circuit SW,V,4,Grey,Verticle,No,6,
+11/17/2015 10:37:57,Circuit SW,V,2,Red,Verticle,Yes,10,
+11/17/2015 10:38:16,Circuit SW,V,4,Grey,Verticle,No,6,
+11/17/2015 10:38:39,Circuit SW,V,4,Grey,Verticle,No,6,
+11/17/2015 10:41:32,Circuit SW,V,1,White,45 Degree,Yes,10,
+11/17/2015 10:45:50,Circuit SW,V,2,Green,Verticle,,10,
+11/17/2015 13:27:25,Circuit NE,V,3,Green,Verticle,,10,
+11/17/2015 13:27:47,Circuit NE,V,4,Yellow,Verticle,,10,
+11/17/2015 13:28:17,Circuit SW,V,4,Yellow Green Checker,Verticle,,10,
+11/17/2015 13:28:42,Circuit NE,V,2,Blue,Over Hang,,10,
+11/17/2015 13:29:12,Circuit NE,V,2,Red,Roof,,10,
+11/20/2015 20:01:57,Circuit NE,V,0,Orange,Verticle,,10,
+11/20/2015 20:04:08,Circuit NE,V,1,Pink,Verticle,,10,
+11/20/2015 20:10:03,Circuit NE,V,2,Green,Verticle,,10,
+11/20/2015 20:14:30,Circuit NE,V,2,Pink,Verticle,,10,"A bit of a cave, but mostly vertical"
+11/20/2015 20:18:36,Circuit NE,V,3,Orange,Roof,,3,
+11/20/2015 20:24:13,Circuit NE,V,3,Purple,Verticle,,3,
+11/20/2015 20:28:53,Circuit NE,V,3,Purple,Verticle,,9,Super sketchy top
+11/20/2015 20:40:22,Circuit NE,V,3,Purple,Verticle,,9,Gotta flag
+11/20/2015 21:01:15,Circuit NE,V,3,Purple,Verticle,,9,
+11/20/2015 21:01:50,Circuit NE,V,2,Yellow,45 Degree,,5,Traverse
+11/20/2015 21:02:34,Circuit NE,V,2,Yellow,45 Degree,,5,Traaaveerrrrssseeeee
+11/20/2015 21:03:00,Circuit NE,V,1,Yellow,Roof,,10,
+11/20/2015 21:24:38,Circuit NE,V,3,Blue,Verticle,,4,
+11/20/2015 21:25:05,Circuit NE,V,3,Blue,Verticle,,4,
+11/20/2015 21:25:26,Circuit NE,V,3,Blue,Verticle,,5,
+11/20/2015 21:26:02,Circuit NE,V,4,Pink,Verticle,,5,
+11/20/2015 21:26:22,Circuit NE,V,4,Pink,Verticle,,5,
+11/20/2015 21:30:39,Circuit NE,V,4,Pink,Verticle,,5,
+11/20/2015 21:36:34,Circuit NE,V,4,Pink,Verticle,,5,
+11/20/2015 21:36:52,Circuit NE,V,4,Pink,Verticle,,5,
+11/22/2015 15:14:08,Circuit NE,V,0,White,Verticle,,10,
+11/22/2015 15:16:35,Circuit NE,V,0,White,Over Hang,,10,all feet
+11/22/2015 15:20:56,Circuit NE,V,1,orange,Verticle,,10,All feet
+11/22/2015 15:29:17,Circuit NE,V,1,Purple,Slab,,10,
+11/22/2015 15:38:05,Circuit NE,V,1,Purple,Verticle,,10,shoes hurrrt
+11/22/2015 15:55:03,Circuit NE,V,2,Blue,Roof,,4,
+11/22/2015 15:55:34,Circuit NE,No Scale,No Scale,Pink,Verticle,,5,Traverse
+11/22/2015 15:56:05,Circuit NE,No Scale,No Scale,Pink,Verticle,,8,Traverse
+11/22/2015 16:06:34,Circuit NE,V,1,Yellow,Verticle,,10,
+11/22/2015 16:06:59,Circuit NE,V,2,Pink,Verticle,,3,
+11/22/2015 16:14:30,Circuit NE,V,2,Pink,Verticle,,10,
+11/24/2015 20:06:31,Circuit SW,V,0,Green red check,45 Degree,,10,
+11/24/2015 20:13:54,Circuit SW,V,1,Blue,45 Degree,,10,All feet
+11/24/2015 20:28:14,Circuit SW,V,2,Yellow,Verticle,,4,Long traverse
+11/24/2015 20:28:43,Circuit SW,V,3,Pink,45 Degree,,4,
+11/24/2015 20:29:06,Circuit SW,V,3,Pink,45 Degree,,4,
+11/24/2015 20:29:38,Circuit SW,V,3,Yellow,Verticle,,8,
+11/24/2015 21:16:19,Circuit SW,V,3,Blue,Roof,,3,
+11/24/2015 21:17:02,Circuit SW,V,1,Yellow,Verticle,,10,
+11/24/2015 21:17:21,Circuit SW,V,2,Blue,Verticle,,10,
+12/1/2015 20:35:24,Circuit NE,V,0,White,Verticle,,10,
+12/1/2015 20:35:48,Circuit NE,V,1,Blue,Verticle,,10,
+12/1/2015 20:36:06,Circuit NE,V,2,Orange,45 Degree,,6,
+12/1/2015 20:36:24,Circuit NE,V,2,Blue,Verticle,,10,
+12/1/2015 20:41:00,Circuit NE,V,3,Yellow,45 Degree,,10,
+12/1/2015 21:32:17,Circuit NE,V,3,White,Roof,,4,
+12/1/2015 21:32:47,Circuit NE,V,3,yellow,Roof,,4,
+12/1/2015 21:33:09,Circuit NE,V,3,Red,Verticle,,4,
+12/1/2015 21:48:23,Circuit NE,V,4,Blue,Verticle,,5,
+12/1/2015 21:48:45,Circuit NE,V,4,Blue,Verticle,,6,
+12/1/2015 21:49:05,Circuit NE,V,4,Blue,Verticle,,6,
