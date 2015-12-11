@@ -1,0 +1,37 @@
+---
+title: "ClimbReport"
+author: "Josh Lynch"
+date: "December 10, 2015"
+output: html_document
+---
+
+```{r, echo=FALSE}
+author <- "Josh Lynch"
+source("climb_analysis.R")
+```
+
+# Climbing Statistics
+### Based on self tracking data submitted by `r author`
+
+## Summary Statistics
+
+* Total days tracked: `r total_days`
+* Total gyms visited: `r total_gyms`
+* Total routes recorded: `r total_climbs`
+* Average climbs per session: `r avg_climbs`
+* Average sends per session: `r avg_sends`
+
+## Summary Plots
+
+```{r, echo=FALSE}
+plot_climbs_day
+plot_climbs_gym
+plot_climbs_vgrade
+```
+
+## Detailed Plots
+
+```{r, echo=FALSE}
+plot_successfail_grade
+plot_successfail_hour
+```
