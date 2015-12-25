@@ -20,6 +20,8 @@ source("climb_analysis.R")
 * Total routes recorded: `r total_climbs`
 * Average climbs per session: `r avg_climbs`
 * Average sends per session: `r avg_sends`
+* Highest Climbs in one session: `r max_session`
+* Highest Sends in one session: `r max_sends`
 
 ## Summary Plots
 

@@ -75,6 +75,8 @@ avg_climbs <- mean(climbs_by_day$Climbs)
 avg_sends <- mean(climbs_by_day$Sends)
 total_climbs <- dim(climbs)[1]
 total_gyms <- length(unique(climbs_per_gym$Route.Location))
+max_session <- max(climbs_by_day$Climbs)
+max_sends <- max(climbs_by_day$Sends)
 
 #Plots
 plot_successfail_grade <- ggplot(data = success_fail_by_grade, aes(x = Route.Grade, y=Climbs, fill=Percentage.Complete)) + 
